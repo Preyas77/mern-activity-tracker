@@ -1,1 +1,1 @@
-"# mern-activity-tracker" 
+Activity Tracker made using MERN Stack
